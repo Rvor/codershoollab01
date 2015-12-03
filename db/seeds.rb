@@ -9,3 +9,10 @@
 100.times do
     Photo.create(username: Faker::Internet.user_name, caption: Faker::Lorem.sentence, likes_count: Faker::Number.number(4), url: Faker::Avatar.image)
 end
+
+
+Photo.all.each do |photo|
+      rand(10).times do 
+              photo.comments << Comment.new(body:Faker::Lorem.sentence)
+                  end
+        end
