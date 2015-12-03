@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  get 'oauth/connect'
+
+  get 'oauth/callback'
+
   resources :photos
   
 
