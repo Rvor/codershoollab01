@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  username: mewnittha
+  caption: #valentino #valentinothailand cr runnerize #ไม่ฝากร้านนะคะ
+  likes_count: 18345
+  url: https://scontent.cdninstagram.com/hphotos-xtf1/t51.2885-15/s640x640/sh0.08/e35/11380003_1646178038975946_2127607224_n.jpg
+
+two:
+  username: flaapavanelli
+  caption: Espia só um trechinho do vídeo que saiu hoje lá no meu canal! Tá demais, juroooo! Alem de dar algumas dicas, mostro também como arrumo minha mala para viagens... Ah, além de algumas palhaçadas (me enfiei até na mala como vocês podem ver 😂). Tem link na minha bio, é só clicar! Depois comentem lá dizendo o que acharam, fico muito feliz com vocês acompanhando, leio tudo sempre, não deixem de me falar o que querem ver por lá ❤️❤️ e quem não se inscreveu não perde tempo, assim vocês ficam ligadinhos sempre que rola vídeo novo (lembrando que toda terça, às 11hrs tem novidade)! Um beijoooooooo!
+  likes_count: 20759
+  url: https://scontent.cdninstagram.com/hphotos-xtp1/t51.2885-15/e15/12106300_1654191448185727_2139224062_n.jpg
